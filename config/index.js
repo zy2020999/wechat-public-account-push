@@ -110,7 +110,7 @@ export const config = {
        // 通辽other
       name: "tl2",
       // o-np76EYC3rg9b6FjkH_52imEjCA
-      id: "",
+      id: "o-np76EYC3rg9b6FjkH_52imEjCA",
       useTemplateId: "NiLFI65io3z-CxB8_kf-hIBjEV3CpOofEct8AnHW5SI",
       province: "内蒙古",
       city: "通辽",
