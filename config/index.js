@@ -184,8 +184,8 @@ export const config = {
   CUSTOMIZED_DATE_LIST: [
     // 在一起的日子
     {"keyword": "love_day", date: "2022-09-03"},
-        // 孙婧原
-    {"keyword": "sjy_day", date: "2022-08-27"},
+        // 孙婧原通辽
+    {"keyword": "tl_day", date: "2022-08-27"},
             // 广东深圳
     {"keyword": "gd_day", date: "2022-09-03"},
                 //28
