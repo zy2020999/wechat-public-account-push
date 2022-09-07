@@ -41,7 +41,7 @@ export const config = {
       // 所在城市
       city: "昆明",
       // 他点击详情后跳转的页面,你可以设置成微博的热榜，也可以设置成其他，网址一定要填对；不填对也没关系，随便你，会打不开而已。
-      openUrl: "http://www.zhouyu6.xyz"
+      openUrl: "http://www.zhouyu8.xyz"
     }, 
     {
        // 广东myself
@@ -50,7 +50,7 @@ export const config = {
       useTemplateId: "2OzSzNw7Q8qSrTwX1zwu7MlMhdrR_QptsqGevw9t2uo",
       province: "广东",
       city: "深圳",
-      openUrl: "http://www.zhouyu6.xyz"
+      openUrl: "http://www.zhouyu8.xyz"
     },
     {
        // 广东other
@@ -59,7 +59,7 @@ export const config = {
       useTemplateId: "2OzSzNw7Q8qSrTwX1zwu7MlMhdrR_QptsqGevw9t2uo",
       province: "广东",
       city: "深圳",
-      openUrl: "http://www.zhouyu6.xyz"
+      openUrl: "http://www.zhouyu8.xyz"
     },
     {
          //曲靖myself
@@ -68,7 +68,7 @@ export const config = {
       useTemplateId: "cvLfMdBoHZCJG6c9V4KR6WIkU0JnoSARSI0nnajEn88",
       province: "云南",
       city: "曲靖",
-      openUrl: "http://www.zhouyu6.xyz"
+      openUrl: "http://www.zhouyu8.xyz"
     }, 
     {
        //曲靖other
@@ -77,7 +77,7 @@ export const config = {
       useTemplateId: "cvLfMdBoHZCJG6c9V4KR6WIkU0JnoSARSI0nnajEn88",
       province: "云南",
       city: "曲靖",
-      openUrl: "http://www.zhouyu6.xyz"
+      openUrl: "http://www.zhouyu8.xyz"
     }, 
     {
       // 西山myself
@@ -86,7 +86,7 @@ export const config = {
       useTemplateId: "cvLfMdBoHZCJG6c9V4KR6WIkU0JnoSARSI0nnajEn88",
       province: "云南",
       city: "昆明",
-      openUrl: "http://www.zhouyu6.xyz"
+      openUrl: "http://www.zhouyu8.xyz"
     }, 
     {
        // 西山other
@@ -95,7 +95,7 @@ export const config = {
       useTemplateId: "cvLfMdBoHZCJG6c9V4KR6WIkU0JnoSARSI0nnajEn88",
       province: "云南",
       city: "昆明",
-      openUrl: "http://www.zhouyu6.xyz"
+      openUrl: "http://www.zhouyu8.xyz"
     }, 
         {
       // 通辽myself
@@ -104,7 +104,7 @@ export const config = {
       useTemplateId: "NiLFI65io3z-CxB8_kf-hIBjEV3CpOofEct8AnHW5SI",
       province: "内蒙古",
       city: "通辽",
-      openUrl: "http://www.zhouyu6.xyz"
+      openUrl: "http://www.zhouyu8.xyz"
     }, 
     {
        // 通辽other
@@ -114,7 +114,7 @@ export const config = {
       useTemplateId: "NiLFI65io3z-CxB8_kf-hIBjEV3CpOofEct8AnHW5SI",
       province: "内蒙古",
       city: "通辽",
-      openUrl: "http://www.zhouyu6.xyz"
+      openUrl: "http://www.zhouyu8.xyz"
     }, 
     {
       name: "老婆3", 
