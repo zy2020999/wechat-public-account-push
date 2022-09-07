@@ -44,11 +44,11 @@ export const config = {
       openUrl: "http://www.zhouyu6.xyz"
     }, 
     {
-      name: "推送结果", 
-      id: "o-np76KNBT9E-s-EFAiiciKi8XOI",
-      useTemplateId: "66Vs9P3M-C9R2G8O6DUQI6MJ8Ta2kwwRA7-7TnzMhbc",
-      province: "云南",
-      city: "昆明",
+      name: "gd", 
+      id: ["o-np76KNBT9E-s-EFAiiciKi8XOI","o-np76KNBT9E-s-EFAiiciKi8XOI"],
+      useTemplateId: "AHD-adtvQeUZMe8Kdhaq-DevMsnW3VWABG1mQNh2SmE",
+      province: "广东",
+      city: "深圳",
       openUrl: "http://www.zhouyu6.xyz"
     }, 
     {
