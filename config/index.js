@@ -44,19 +44,19 @@ export const config = {
       openUrl: "http://www.zhouyu6.xyz"
     }, 
     {
-      name: "two", 
-      id: "o-np76OObB4c_faiforYF_aW7mLI",
-      useTemplateId: "1A-cB5gAGThSIExu2cdjcO6WJGDY9SqWTTCv7ri5i-s",
+      name: "推送结果", 
+      id: "o-np76KNBT9E-s-EFAiiciKi8XOI",
+      useTemplateId: "	66Vs9P3M-C9R2G8O6DUQI6MJ8Ta2kwwRA7-7TnzMhbc",
       province: "云南",
       city: "昆明",
       openUrl: "http://www.zhouyu6.xyz"
     }, 
     {
-      name: "老婆2",
-      id: "",
-      useTemplateId: "",
-      province: "",
-      city: "",
+      name: "two",
+      id: "o-np76KNBT9E-s-EFAiiciKi8XOI",
+      useTemplateId: "MNCDXKb5s7sklgNqTzO0DUPeau6kxUFK7w4yMTaq4Zw",
+      province: "云南",
+      city: "昆明",
       openUrl: "http://www.zhouyu6.xyz"
     }, 
     {
@@ -127,7 +127,7 @@ export const config = {
     * */
   CUSTOMIZED_DATE_LIST: [
     // 在一起的日子
-    {"keyword": "love_day", date: "2015-05-01"},
+    {"keyword": "love_day", date: "2022-09-03"},
     // 结婚纪念日
     {"keyword": "marry_day", date: "2020-01-04"},
     // 退伍日, 不用可以删掉
