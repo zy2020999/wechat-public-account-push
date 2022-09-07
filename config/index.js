@@ -44,19 +44,75 @@ export const config = {
       openUrl: "http://www.zhouyu6.xyz"
     }, 
     {
-      name: "gd", 
+       // 广东myself
+      name: "gd1", 
       id: "o-np76KNBT9E-s-EFAiiciKi8XOI",
-      useTemplateId: "AHD-adtvQeUZMe8Kdhaq-DevMsnW3VWABG1mQNh2SmE",
+      useTemplateId: "2OzSzNw7Q8qSrTwX1zwu7MlMhdrR_QptsqGevw9t2uo",
       province: "广东",
       city: "深圳",
       openUrl: "http://www.zhouyu6.xyz"
+    },
+    {
+       // 广东other
+      name: "gd2", 
+      id: "o-np76KNBT9E-s-EFAiiciKi8XOI",
+      useTemplateId: "2OzSzNw7Q8qSrTwX1zwu7MlMhdrR_QptsqGevw9t2uo",
+      province: "广东",
+      city: "深圳",
+      openUrl: "http://www.zhouyu6.xyz"
+    },
+    {
+         //曲靖myself
+      name: "281",
+      id: "o-np76KNBT9E-s-EFAiiciKi8XOI",
+      useTemplateId: "cvLfMdBoHZCJG6c9V4KR6WIkU0JnoSARSI0nnajEn88",
+      province: "云南",
+      city: "曲靖",
+      openUrl: "http://www.zhouyu6.xyz"
     }, 
     {
-      name: "two",
+       //曲靖other
+      name: "282",
       id: "o-np76KNBT9E-s-EFAiiciKi8XOI",
-      useTemplateId: "AHD-adtvQeUZMe8Kdhaq-DevMsnW3VWABG1mQNh2SmE",
+      useTemplateId: "cvLfMdBoHZCJG6c9V4KR6WIkU0JnoSARSI0nnajEn88",
+      province: "云南",
+      city: "曲靖",
+      openUrl: "http://www.zhouyu6.xyz"
+    }, 
+    {
+      // 西山myself
+      name: "xs1",
+      id: "o-np76KNBT9E-s-EFAiiciKi8XOI",
+      useTemplateId: "cvLfMdBoHZCJG6c9V4KR6WIkU0JnoSARSI0nnajEn88",
       province: "云南",
       city: "昆明",
+      openUrl: "http://www.zhouyu6.xyz"
+    }, 
+    {
+       // 西山other
+      name: "xs2",
+      id: "o-np76KNBT9E-s-EFAiiciKi8XOI",
+      useTemplateId: "cvLfMdBoHZCJG6c9V4KR6WIkU0JnoSARSI0nnajEn88",
+      province: "云南",
+      city: "昆明",
+      openUrl: "http://www.zhouyu6.xyz"
+    }, 
+        {
+      // 通辽myself
+      name: "tl1",
+      id: "o-np76KNBT9E-s-EFAiiciKi8XOI",
+      useTemplateId: "NiLFI65io3z-CxB8_kf-hIBjEV3CpOofEct8AnHW5SI",
+      province: "内蒙古",
+      city: "通辽",
+      openUrl: "http://www.zhouyu6.xyz"
+    }, 
+    {
+       // 通辽other
+      name: "tl2",
+      id: "o-np76KNBT9E-s-EFAiiciKi8XOI",
+      useTemplateId: "NiLFI65io3z-CxB8_kf-hIBjEV3CpOofEct8AnHW5SI",
+      province: "内蒙古",
+      city: "通辽",
       openUrl: "http://www.zhouyu6.xyz"
     }, 
     {
@@ -128,6 +184,12 @@ export const config = {
   CUSTOMIZED_DATE_LIST: [
     // 在一起的日子
     {"keyword": "love_day", date: "2022-09-03"},
+        // 孙婧原
+    {"keyword": "sjy_day", date: "2022-08-27"},
+            // 广东深圳
+    {"keyword": "gd_day", date: "2022-09-03"},
+                //28
+    {"keyword": "28_day", date: "2022-09-04"},
     // 结婚纪念日
     {"keyword": "marry_day", date: "2020-01-04"},
     // 退伍日, 不用可以删掉
