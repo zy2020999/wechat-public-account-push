@@ -45,7 +45,7 @@ export const config = {
     }, 
     {
       name: "gd", 
-      id: ["o-np76KNBT9E-s-EFAiiciKi8XOI","o-np76KNBT9E-s-EFAiiciKi8XOI"],
+      id: "o-np76KNBT9E-s-EFAiiciKi8XOI",
       useTemplateId: "AHD-adtvQeUZMe8Kdhaq-DevMsnW3VWABG1mQNh2SmE",
       province: "广东",
       city: "深圳",
