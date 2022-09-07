@@ -44,11 +44,11 @@ export const config = {
       openUrl: "http://www.zhouyu6.xyz"
     }, 
     {
-      name: "老婆1", 
-      id: "",
-      useTemplateId: "",
-      province: "",
-      city: "",
+      name: "two", 
+      id: "o-np76OObB4c_faiforYF_aW7mLI",
+      useTemplateId: "1A-cB5gAGThSIExu2cdjcO6WJGDY9SqWTTCv7ri5i-s",
+      province: "云南",
+      city: "昆明",
       openUrl: "http://www.zhouyu6.xyz"
     }, 
     {
