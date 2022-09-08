@@ -110,7 +110,7 @@ export const config = {
        // 通辽other
       name: "tl2",
       // o-np76EYC3rg9b6FjkH_52imEjCA
-      id: "o-np76EYC3rg9b6FjkH_52imEjCA",
+      id: "",
       useTemplateId: "NiLFI65io3z-CxB8_kf-hIBjEV3CpOofEct8AnHW5SI",
       province: "内蒙古",
       city: "通辽",
@@ -131,7 +131,7 @@ export const config = {
    */
 
   // 回调消息模板id, 用来看自己有没有发送成功的那个模板
-  CALLBACK_TEMPLATE_ID: "zjV1glIuCXo4Csr23aXWEio1iP74sZJ7IQEES95lDsg6c4yOU",
+  CALLBACK_TEMPLATE_ID: "lH7gw_FUZwMMy3sHhrveiEWzKfxVSN0JxedHIsITBys",
 
   // 接收成功回调消息的微信号，（一般来说只填自己的微信号, name填不填无所谓）
   CALLBACK_USERS: [
