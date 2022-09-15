@@ -47,9 +47,10 @@ export const config = {
        // 广东myself
       name: "gd1", 
       id: "o-np76KNBT9E-s-EFAiiciKi8XOI",
-      useTemplateId: "2OzSzNw7Q8qSrTwX1zwu7MlMhdrR_QptsqGevw9t2uo",
+      useTemplateId: "i5TrU6xLvm-yru7Kap_-_F8n2f7bd0fNN8dx0hbkuCg",
       province: "广东",
       city: "深圳",
+//       http://www.zhouyu8.xyz
       openUrl: "http://www.zhouyu8.xyz"
     },
     {
@@ -100,7 +101,8 @@ export const config = {
         {
       // 通辽myself
       name: "tl1",
-      id: "o-np76KNBT9E-s-EFAiiciKi8XOI",
+        //o-np76KNBT9E-s-EFAiiciKi8XOI
+      id: "",
       useTemplateId: "NiLFI65io3z-CxB8_kf-hIBjEV3CpOofEct8AnHW5SI",
       province: "内蒙古",
       city: "通辽",
