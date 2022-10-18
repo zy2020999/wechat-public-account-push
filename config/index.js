@@ -192,7 +192,8 @@ export const config = {
             // 广东深圳
     {"keyword": "gd_day", date: "2022-09-03"},
                 //28
-    {"keyword": "28_day", date: "2022-09-04"},
+//     {"keyword": "28_day", date: "2022-09-04"},
+    {"keyword": "28_day", date: "2022-10-12"},
     // 结婚纪念日
     {"keyword": "marry_day", date: "2020-01-04"},
     // 退伍日, 不用可以删掉
