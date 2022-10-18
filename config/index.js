@@ -84,7 +84,7 @@ export const config = {
          //丽myself
       name: "li2",
       //o-np76KNBT9E-s-EFAiiciKi8XOI
-      id: "",
+      id: "o-np76KNBT9E-s-EFAiiciKi8XOI",
       useTemplateId: "iXLMntPMxYkvv-32CXZk6mfwJHrENqgrBZXVwVsA3IA",
       province: "云南",
       city: "昆明",
