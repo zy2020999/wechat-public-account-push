@@ -71,6 +71,24 @@ export const config = {
       city: "曲靖",
       openUrl: "http://www.zhouyu8.xyz"
     }, 
+     {
+         //丽other
+      name: "li1",
+      id: "o-np76KNBT9E-s-EFAiiciKi8XOI",
+      useTemplateId: "cvLfMdBoHZCJG6c9V4KR6WIkU0JnoSARSI0nnajEn88",
+      province: "云南",
+      city: "昆明",
+      openUrl: "http://www.zhouyu8.xyz"
+    }, 
+    {
+         //丽myself
+      name: "li2",
+      id: "o-np76KNBT9E-s-EFAiiciKi8XOI",
+      useTemplateId: "ttHIidJOpqItLFXIu7walOmlGMiGNXgQRK_KiiqL7P4",
+      province: "云南",
+      city: "昆明",
+      openUrl: "http://www.zhouyu8.xyz"
+    }, 
     {
        //曲靖other
       name: "282",
