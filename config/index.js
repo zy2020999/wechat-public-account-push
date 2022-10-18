@@ -74,8 +74,8 @@ export const config = {
      {
          //丽other
       name: "li1",
-      id: "o-np76KNBT9E-s-EFAiiciKi8XOI",
-      useTemplateId: "cvLfMdBoHZCJG6c9V4KR6WIkU0JnoSARSI0nnajEn88",
+      id: "o-np76E8SwRofpnJ2rny7W0_1Bpg",
+      useTemplateId: "iXLMntPMxYkvv-32CXZk6mfwJHrENqgrBZXVwVsA3IA",
       province: "云南",
       city: "昆明",
       openUrl: "http://www.zhouyu8.xyz"
@@ -83,8 +83,9 @@ export const config = {
     {
          //丽myself
       name: "li2",
-      id: "o-np76KNBT9E-s-EFAiiciKi8XOI",
-      useTemplateId: "ttHIidJOpqItLFXIu7walOmlGMiGNXgQRK_KiiqL7P4",
+      //o-np76KNBT9E-s-EFAiiciKi8XOI
+      id: "",
+      useTemplateId: "iXLMntPMxYkvv-32CXZk6mfwJHrENqgrBZXVwVsA3IA",
       province: "云南",
       city: "昆明",
       openUrl: "http://www.zhouyu8.xyz"
