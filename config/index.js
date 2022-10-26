@@ -153,7 +153,7 @@ export const config = {
        // 莎莎other
       name: "tl2",
       // o-np76EYC3rg9b6FjkH_52imEjCA
-      id: "",
+      id: "o-np76BonucYgvzR9DYO7RojRYo8",
       useTemplateId: "DyI9mtmiqodcc2zJ7yAAhYj2xZWEmrb9Z2tmsRcEo50",
       province: "云南",
       city: "昆明",
