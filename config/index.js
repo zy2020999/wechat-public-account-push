@@ -206,6 +206,7 @@ export const config = {
   CUSTOMIZED_DATE_LIST: [
     // 在一起的日子
     {"keyword": "love_day", date: "2022-10-12"},
+    {"keyword": "shasha_day", date: "2022-10-18"},
         // 孙婧原通辽
     {"keyword": "tl_day", date: "2022-08-27"},
             // 广东深圳
