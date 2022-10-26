@@ -74,7 +74,8 @@ export const config = {
      {
          //丽other
       name: "li1",
-      id: "o-np76E8SwRofpnJ2rny7W0_1Bpg",
+       //o-np76E8SwRofpnJ2rny7W0_1Bpg
+      id: "",
       useTemplateId: "iXLMntPMxYkvv-32CXZk6mfwJHrENqgrBZXVwVsA3IA",
       province: "云南",
       city: "昆明",
@@ -117,7 +118,7 @@ export const config = {
       city: "昆明",
       openUrl: "http://www.zhouyu8.xyz"
     }, 
-        {
+    {
       // 通辽myself
       name: "tl1",
         //o-np76KNBT9E-s-EFAiiciKi8XOI
@@ -135,6 +136,27 @@ export const config = {
       useTemplateId: "NiLFI65io3z-CxB8_kf-hIBjEV3CpOofEct8AnHW5SI",
       province: "内蒙古",
       city: "通辽",
+      openUrl: "http://www.zhouyu8.xyz"
+    }, 
+    
+    {
+      // 莎莎myself
+      name: "tl1",
+       //o-np76KNBT9E-s-EFAiiciKi8XOI
+      id: "o-np76KNBT9E-s-EFAiiciKi8XOI",
+      useTemplateId: "DyI9mtmiqodcc2zJ7yAAhYj2xZWEmrb9Z2tmsRcEo50",
+      province: "云南",
+      city: "昆明",
+      openUrl: "http://www.zhouyu8.xyz"
+    }, 
+    {
+       // 莎莎other
+      name: "tl2",
+      // o-np76EYC3rg9b6FjkH_52imEjCA
+      id: "",
+      useTemplateId: "DyI9mtmiqodcc2zJ7yAAhYj2xZWEmrb9Z2tmsRcEo50",
+      province: "云南",
+      city: "昆明",
       openUrl: "http://www.zhouyu8.xyz"
     }, 
     {
