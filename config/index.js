@@ -94,8 +94,8 @@ export const config = {
       {
        //媛other
       name: "yuan1",
-       //o-np76E8SwRofpnJ2rny7W0_1Bpg
-      id: "",
+       //o-np76PFkP2vao4Jfmhry-CTJHew
+      id: "o-np76PFkP2vao4Jfmhry-CTJHew",
       useTemplateId: "GVuhRF9GdOASaXE7cbKXltOlTw6nEDKBagtOX4nA0HE",
       province: "云南",
       city: "玉溪",
