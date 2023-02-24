@@ -75,7 +75,7 @@ export const config = {
          //丽other
       name: "li1",
        //o-np76E8SwRofpnJ2rny7W0_1Bpg
-      id: "o-np76E8SwRofpnJ2rny7W0_1Bpg",
+      id: "",
       useTemplateId: "iXLMntPMxYkvv-32CXZk6mfwJHrENqgrBZXVwVsA3IA",
       province: "云南",
       city: "昆明",
@@ -95,7 +95,7 @@ export const config = {
        //媛other
       name: "yuan1",
        //o-np76PFkP2vao4Jfmhry-CTJHew
-      id: "o-np76PFkP2vao4Jfmhry-CTJHew",
+      id: "",
       useTemplateId: "GVuhRF9GdOASaXE7cbKXltOlTw6nEDKBagtOX4nA0HE",
       province: "云南",
       city: "玉溪",
@@ -173,7 +173,7 @@ export const config = {
        // 莎莎other
       name: "sha2",
       // o-np76BonucYgvzR9DYO7RojRYo8
-      id: "o-np76BonucYgvzR9DYO7RojRYo8",
+      id: "",
       useTemplateId: "DyI9mtmiqodcc2zJ7yAAhYj2xZWEmrb9Z2tmsRcEo50",
       province: "云南",
       city: "昆明",
