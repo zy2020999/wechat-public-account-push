@@ -47,7 +47,7 @@ export const config = {
        // 广东myself
       name: "gd1", 
       id: "o-np76KNBT9E-s-EFAiiciKi8XOI",
-      useTemplateId: "i5TrU6xLvm-yru7Kap_-_F8n2f7bd0fNN8dx0hbkuCg",
+      useTemplateId: "rqYryB_0NekQ3ymMBzPPyGQbMKsgpdBUnOAAtgMtoVA",
       province: "广东",
       city: "深圳",
 //       http://www.zhouyu8.xyz
@@ -269,6 +269,8 @@ export const config = {
   CUSTOMIZED_DATE_LIST: [
     // 在一起的日子
     {"keyword": "love_day", date: "2022-10-12"},
+    //firstday
+     {"keyword": "first_day", date: "2023-02-26"},
     // 媛媛
     {"keyword": "yuan_day", date: "2022-10-17"},
     // 梅梅
