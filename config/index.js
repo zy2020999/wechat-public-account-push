@@ -56,7 +56,7 @@ export const config = {
     {
        // 广东other
       name: "gd2", 
-      id: "o-np76KNBT9E-s-EFAiiciKi8XOI",
+      id: "",
       useTemplateId: "2OzSzNw7Q8qSrTwX1zwu7MlMhdrR_QptsqGevw9t2uo",
       province: "广东",
       city: "深圳",
@@ -65,7 +65,7 @@ export const config = {
     {
          //曲靖myself
       name: "281",
-      id: "o-np76KNBT9E-s-EFAiiciKi8XOI",
+      id: "",
       useTemplateId: "cvLfMdBoHZCJG6c9V4KR6WIkU0JnoSARSI0nnajEn88",
       province: "云南",
       city: "曲靖",
@@ -85,7 +85,7 @@ export const config = {
          //丽myself
       name: "li2",
       //o-np76KNBT9E-s-EFAiiciKi8XOI
-      id: "o-np76KNBT9E-s-EFAiiciKi8XOI",
+      id: "",
       useTemplateId: "iXLMntPMxYkvv-32CXZk6mfwJHrENqgrBZXVwVsA3IA",
       province: "云南",
       city: "昆明",
@@ -105,7 +105,7 @@ export const config = {
        //媛myself
       name: "yuan2",
       //o-np76KNBT9E-s-EFAiiciKi8XOI
-      id: "o-np76KNBT9E-s-EFAiiciKi8XOI",
+      id: "",
       useTemplateId: "GVuhRF9GdOASaXE7cbKXltOlTw6nEDKBagtOX4nA0HE",
       province: "云南",
       city: "玉溪",
@@ -114,7 +114,7 @@ export const config = {
     {
        //曲靖other
       name: "282",
-      id: "o-np76KNBT9E-s-EFAiiciKi8XOI",
+      id: "",
       useTemplateId: "cvLfMdBoHZCJG6c9V4KR6WIkU0JnoSARSI0nnajEn88",
       province: "云南",
       city: "曲靖",
@@ -123,7 +123,7 @@ export const config = {
     {
       // 西山myself
       name: "xs1",
-      id: "o-np76KNBT9E-s-EFAiiciKi8XOI",
+      id: "",
       useTemplateId: "cvLfMdBoHZCJG6c9V4KR6WIkU0JnoSARSI0nnajEn88",
       province: "云南",
       city: "昆明",
@@ -132,7 +132,7 @@ export const config = {
     {
        // 西山other
       name: "xs2",
-      id: "o-np76KNBT9E-s-EFAiiciKi8XOI",
+      id: "",
       useTemplateId: "cvLfMdBoHZCJG6c9V4KR6WIkU0JnoSARSI0nnajEn88",
       province: "云南",
       city: "昆明",
@@ -163,7 +163,7 @@ export const config = {
       // 莎莎myself
       name: "sha1",
        //o-np76KNBT9E-s-EFAiiciKi8XOI
-      id: "o-np76KNBT9E-s-EFAiiciKi8XOI",
+      id: "",
       useTemplateId: "DyI9mtmiqodcc2zJ7yAAhYj2xZWEmrb9Z2tmsRcEo50",
       province: "云南",
       city: "昆明",
@@ -184,7 +184,7 @@ export const config = {
       // 梅梅myself
       name: "mei1",
        //o-np76KNBT9E-s-EFAiiciKi8XOI
-      id: "o-np76KNBT9E-s-EFAiiciKi8XOI",
+      id: "",
       useTemplateId: "CLJp1-_yBK-zO77ps1E1Qmz20JAl2qaAEcp60qLKbAQ",
       province: "云南",
       city: "昆明",
@@ -223,7 +223,8 @@ export const config = {
       // 一般都填自己
       name: "自己",
       // 自己的微信id，扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: "o-np76KNBT9E-s-EFAiiciKi8XOI",
+      //o-np76KNBT9E-s-EFAiiciKi8XOI
+      id: "",
     }, 
   ],
     
