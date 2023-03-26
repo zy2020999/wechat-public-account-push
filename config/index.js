@@ -45,19 +45,20 @@ export const config = {
     }, 
     {
        // 邹倩myself
-      name: "gd1", 
+      name: "zq1", 
       id: "o-np76KNBT9E-s-EFAiiciKi8XOI",
-      useTemplateId: "1p_Xh3PaZrPVoYYGk9AS1IuqAoi1JO-LNNDpdfL99LA",
+      useTemplateId: "H8WonK1YPHIU31k_tdGp5EY8I5QC2o3tKQcuHEc6WeI",
       province: "云南",
       city: "昆明",
 //       http://www.zhouyu8.xyz
       openUrl: "http://www.zhouyu.website"
     },
     {
-       // 邹倩ohter
-      name: "gd2", 
-      id: "o-np76J_ByGcnfjL-CiJmarQWR78",
-      useTemplateId: "1p_Xh3PaZrPVoYYGk9AS1IuqAoi1JO-LNNDpdfL99LA",
+       // 邹倩ohter 
+      name: "zq2", 
+      //o-np76J_ByGcnfjL-CiJmarQWR78
+      id: "",
+      useTemplateId: "H8WonK1YPHIU31k_tdGp5EY8I5QC2o3tKQcuHEc6WeI",
       province: "云南",
       city: "昆明",
       openUrl: "http://www.zhouyu.website"
