@@ -54,13 +54,13 @@ export const config = {
       openUrl: "http://www.zhouyu.website"
     },
     {
-       // 广东other
+       // 邹倩ohter
       name: "gd2", 
-      id: "",
-      useTemplateId: "2OzSzNw7Q8qSrTwX1zwu7MlMhdrR_QptsqGevw9t2uo",
-      province: "广东",
-      city: "深圳",
-      openUrl: "http://www.zhouyu8.xyz"
+      id: "o-np76J_ByGcnfjL-CiJmarQWR78",
+      useTemplateId: "1p_Xh3PaZrPVoYYGk9AS1IuqAoi1JO-LNNDpdfL99LA",
+      province: "云南",
+      city: "昆明",
+      openUrl: "http://www.zhouyu.website"
     },
     {
          //曲靖myself
