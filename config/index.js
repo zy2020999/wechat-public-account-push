@@ -44,14 +44,14 @@ export const config = {
       openUrl: "http://www.zhouyu8.xyz"
     }, 
     {
-       // 广东myself
+       // 邹倩myself
       name: "gd1", 
       id: "o-np76KNBT9E-s-EFAiiciKi8XOI",
-      useTemplateId: "6geeMDByQVTGuie6AVkth6sJ0Zixy3cSZNiI1od397c",
-      province: "广东",
-      city: "深圳",
+      useTemplateId: "1p_Xh3PaZrPVoYYGk9AS1IuqAoi1JO-LNNDpdfL99LA",
+      province: "云南",
+      city: "昆明",
 //       http://www.zhouyu8.xyz
-      openUrl: "http://www.zhouyu8.xyz"
+      openUrl: "http://www.zhouyu.website"
     },
     {
        // 广东other
@@ -271,7 +271,7 @@ export const config = {
     // 在一起的日子
     {"keyword": "love_day", date: "2022-10-12"},
     //firstday
-     {"keyword": "first_day", date: "2023-02-27"},
+     {"keyword": "first_day", date: "2023-03-02"},
     // 媛媛
     {"keyword": "yuan_day", date: "2022-10-17"},
     // 梅梅
