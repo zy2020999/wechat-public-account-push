@@ -224,7 +224,7 @@ export const config = {
       name: "自己",
       // 自己的微信id，扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       //o-np76KNBT9E-s-EFAiiciKi8XOI
-      id: "",
+      id: "o-np76KNBT9E-s-EFAiiciKi8XOI",
     }, 
   ],
     
