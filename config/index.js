@@ -57,7 +57,7 @@ export const config = {
        // 邹倩ohter 
       name: "zq2", 
       //o-np76J_ByGcnfjL-CiJmarQWR78
-      id: "o-np76J_ByGcnfjL-CiJmarQWR78",
+      id: "",
       useTemplateId: "H8WonK1YPHIU31k_tdGp5EY8I5QC2o3tKQcuHEc6WeI",
       province: "云南",
       city: "昆明",
