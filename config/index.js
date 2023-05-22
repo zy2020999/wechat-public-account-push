@@ -32,7 +32,7 @@ export const config = {
     {
       name: "anan", 
       id: "o-np76KNBT9E-s-EFAiiciKi8XOI",
-      useTemplateId: "H8WonK1YPHIU31k_tdGp5EY8I5QC2o3tKQcuHEc6WeI",
+      useTemplateId: "mZGKKkgLEmiiNRU0Tasf922144K-rc8T5tUWQrDC6iE",
       province: "云南",
       city: "昆明",
 //       http://www.zhouyu8.xyz
