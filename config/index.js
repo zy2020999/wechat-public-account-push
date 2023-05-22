@@ -18,7 +18,7 @@ export const config = {
    * [
    *  {
    *    // 想要发送的人的名字
-   *    name: "老婆0",
+   *    name: "",
    *    // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
    *    id: "o-np76KNBT9E-s-EFAiiciKi8XOI",
    *    // 你想对他发送的模板消息的模板ID
@@ -30,22 +30,7 @@ export const config = {
    */
   USERS: [
     {
-      // 想要发送的人的名字
-      name: "one",
-      // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: "o-np76KNBT9E-s-EFAiiciKi8XOI",
-      // 你想对他发送的模板消息的模板ID
-      useTemplateId: "1A-cB5gAGThSIExu2cdjcO6WJGDY9SqWTTCv7ri5i-s",
-      // 所在省份
-      province: "云南",
-      // 所在城市
-      city: "昆明",
-      // 他点击详情后跳转的页面,你可以设置成微博的热榜，也可以设置成其他，网址一定要填对；不填对也没关系，随便你，会打不开而已。
-      openUrl: "http://www.zhouyu8.xyz"
-    }, 
-    {
-       // 邹倩myself
-      name: "zq1", 
+      name: "anan", 
       id: "o-np76KNBT9E-s-EFAiiciKi8XOI",
       useTemplateId: "H8WonK1YPHIU31k_tdGp5EY8I5QC2o3tKQcuHEc6WeI",
       province: "云南",
@@ -53,162 +38,6 @@ export const config = {
 //       http://www.zhouyu8.xyz
       openUrl: "http://www.zhouyu.website"
     },
-    {
-       // 邹倩ohter 
-      name: "zq2", 
-      //o-np76J_ByGcnfjL-CiJmarQWR78
-      id: "",
-      useTemplateId: "H8WonK1YPHIU31k_tdGp5EY8I5QC2o3tKQcuHEc6WeI",
-      province: "云南",
-      city: "昆明",
-      openUrl: "http://www.zhouyu.website"
-    },
-    {
-         //曲靖myself
-      name: "281",
-      id: "",
-      useTemplateId: "cvLfMdBoHZCJG6c9V4KR6WIkU0JnoSARSI0nnajEn88",
-      province: "云南",
-      city: "曲靖",
-      openUrl: "http://www.zhouyu8.xyz"
-    }, 
-     {
-         //丽other
-      name: "li1",
-       //o-np76E8SwRofpnJ2rny7W0_1Bpg
-      id: "",
-      useTemplateId: "iXLMntPMxYkvv-32CXZk6mfwJHrENqgrBZXVwVsA3IA",
-      province: "云南",
-      city: "昆明",
-      openUrl: "http://www.zhouyu8.xyz"
-    }, 
-    {
-         //丽myself
-      name: "li2",
-      //o-np76KNBT9E-s-EFAiiciKi8XOI
-      id: "",
-      useTemplateId: "iXLMntPMxYkvv-32CXZk6mfwJHrENqgrBZXVwVsA3IA",
-      province: "云南",
-      city: "昆明",
-      openUrl: "http://www.zhouyu8.xyz"
-    }, 
-      {
-       //媛other
-      name: "yuan1",
-       //o-np76PFkP2vao4Jfmhry-CTJHew
-      id: "",
-      useTemplateId: "GVuhRF9GdOASaXE7cbKXltOlTw6nEDKBagtOX4nA0HE",
-      province: "云南",
-      city: "玉溪",
-      openUrl: "http://www.zhouyu8.xyz"
-    }, 
-    {
-       //媛myself
-      name: "yuan2",
-      //o-np76KNBT9E-s-EFAiiciKi8XOI
-      id: "",
-      useTemplateId: "GVuhRF9GdOASaXE7cbKXltOlTw6nEDKBagtOX4nA0HE",
-      province: "云南",
-      city: "玉溪",
-      openUrl: "http://www.zhouyu8.xyz"
-    }, 
-    {
-       //曲靖other
-      name: "282",
-      id: "",
-      useTemplateId: "cvLfMdBoHZCJG6c9V4KR6WIkU0JnoSARSI0nnajEn88",
-      province: "云南",
-      city: "曲靖",
-      openUrl: "http://www.zhouyu8.xyz"
-    }, 
-    {
-      // 西山myself
-      name: "xs1",
-      id: "",
-      useTemplateId: "cvLfMdBoHZCJG6c9V4KR6WIkU0JnoSARSI0nnajEn88",
-      province: "云南",
-      city: "昆明",
-      openUrl: "http://www.zhouyu8.xyz"
-    }, 
-    {
-       // 西山other
-      name: "xs2",
-      id: "",
-      useTemplateId: "cvLfMdBoHZCJG6c9V4KR6WIkU0JnoSARSI0nnajEn88",
-      province: "云南",
-      city: "昆明",
-      openUrl: "http://www.zhouyu8.xyz"
-    }, 
-    {
-      // 通辽myself
-      name: "tl1",
-        //o-np76KNBT9E-s-EFAiiciKi8XOI
-      id: "",
-      useTemplateId: "NiLFI65io3z-CxB8_kf-hIBjEV3CpOofEct8AnHW5SI",
-      province: "内蒙古",
-      city: "通辽",
-      openUrl: "http://www.zhouyu8.xyz"
-    }, 
-    {
-       // 通辽other
-      name: "tl2",
-      // o-np76EYC3rg9b6FjkH_52imEjCA
-      id: "",
-      useTemplateId: "NiLFI65io3z-CxB8_kf-hIBjEV3CpOofEct8AnHW5SI",
-      province: "内蒙古",
-      city: "通辽",
-      openUrl: "http://www.zhouyu8.xyz"
-    }, 
-    
-    {
-      // 莎莎myself
-      name: "sha1",
-       //o-np76KNBT9E-s-EFAiiciKi8XOI
-      id: "",
-      useTemplateId: "DyI9mtmiqodcc2zJ7yAAhYj2xZWEmrb9Z2tmsRcEo50",
-      province: "云南",
-      city: "昆明",
-      openUrl: "http://www.zhouyu8.xyz"
-    }, 
-    {
-       // 莎莎other
-      name: "sha2",
-      // o-np76BonucYgvzR9DYO7RojRYo8
-      id: "",
-      useTemplateId: "DyI9mtmiqodcc2zJ7yAAhYj2xZWEmrb9Z2tmsRcEo50",
-      province: "云南",
-      city: "昆明",
-      openUrl: "http://www.zhouyu8.xyz"
-    }, 
-      
-    {
-      // 梅梅myself
-      name: "mei1",
-       //o-np76KNBT9E-s-EFAiiciKi8XOI
-      id: "",
-      useTemplateId: "CLJp1-_yBK-zO77ps1E1Qmz20JAl2qaAEcp60qLKbAQ",
-      province: "云南",
-      city: "昆明",
-      openUrl: "http://www.zhouyu8.xyz"
-    }, 
-    {
-       // 梅梅other
-      name: "mei2",
-      // 
-      id: "",
-      useTemplateId: "CLJp1-_yBK-zO77ps1E1Qmz20JAl2qaAEcp60qLKbAQ",
-      province: "云南",
-      city: "昆明",
-      openUrl: "http://www.zhouyu8.xyz"
-    }, 
-    {
-      name: "老婆3", 
-      id: "",
-      useTemplateId: "",
-      province: "",
-      city: "",
-      openUrl: "http://www.zhouyu6.xyz"
-    }, 
   ],
 
   /**
@@ -271,6 +100,8 @@ export const config = {
   CUSTOMIZED_DATE_LIST: [
     // 在一起的日子
     {"keyword": "love_day", date: "2022-10-12"},
+        // 在一起的日子
+    {"keyword": "anan_day", date: "2023-04-27"},
     //firstday
      {"keyword": "first_day", date: "2023-03-02"},
     // 媛媛
